@@ -26,7 +26,7 @@ nav ul{
     align-items: center;
     
 }
-button.H{
+.H{
     color: #FFFFFF;
     height: 64px;
     background: #FD6E0A;
@@ -202,4 +202,25 @@ h4{
     text-align: center;
     margin-top: 30px;
 
+}
+.contact .BB{
+    text-align: left;
+}
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.contact input,textarea{
+    margin-bottom: 24px;
+}
+.contact a{
+    text-decoration: none;
+}
+.BB{
+    margin-bottom: 30px;
+}
+.TT{
+    margin-bottom: 26px;
 }
